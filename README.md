@@ -1,3 +1,3 @@
 # git-practice
 
-git workflow
+git workflow is fun!
